@@ -14,3 +14,10 @@ In this assignment, you will use word embeddings to explore our Wikipedia datase
 - Task 3: Task 3 Present a document as an embedding
 - Task 4: Build classifier to test docs 
 - Task 5: Use t-SNE to project doc vectors
+
+### Assignment-03
+In this assignment, you will explore three taggers for a Brown corpus
+- Task1: Load and explore your data 
+- Task2: Method 1: Build a baseline method, namely, the most frequent tagger
+- Task3: Method 2: Build an `HMM` tagger
+- Task4: Method 3: Fine-tuning on `BERT-base` model for POS-tagging
